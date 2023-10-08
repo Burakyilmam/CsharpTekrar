@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace C_Tekrar
 {
-    public partial class Form3 : Form
+    public partial class DörtİşlemFormu : Form
     {
-        public Form3()
+        public DörtİşlemFormu()
         {
             InitializeComponent();
         }

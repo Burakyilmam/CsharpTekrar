@@ -1,6 +1,6 @@
 ﻿namespace C_Tekrar
 {
-    partial class Form1
+    partial class FaktoriyelHesaplamaFormu
     {
         /// <summary>
         ///  Required designer variable.

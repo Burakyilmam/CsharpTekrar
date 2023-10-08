@@ -1,8 +1,8 @@
 namespace C_Tekrar
 {
-    public partial class Form1 : Form
+    public partial class FaktoriyelHesaplamaFormu : Form
     {
-        public Form1()
+        public FaktoriyelHesaplamaFormu()
         {
             InitializeComponent();
         }

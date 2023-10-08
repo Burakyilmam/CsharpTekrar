@@ -1,6 +1,6 @@
 ﻿namespace C_Tekrar
 {
-    partial class Form3
+    partial class DörtİşlemFormu
     {
         /// <summary>
         /// Required designer variable.

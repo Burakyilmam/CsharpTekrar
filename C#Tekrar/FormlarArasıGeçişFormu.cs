@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace C_Tekrar
 {
-    public partial class Form2 : Form
+    public partial class FormlarArasıGeçişFormu : Form
     {
-        public Form2()
+        public FormlarArasıGeçişFormu()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 frm = new Form1();
+            FaktoriyelHesaplamaFormu frm = new FaktoriyelHesaplamaFormu();
             frm.Show();
             this.Hide();
         }

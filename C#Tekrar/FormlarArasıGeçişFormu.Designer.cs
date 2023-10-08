@@ -1,6 +1,6 @@
 ﻿namespace C_Tekrar
 {
-    partial class Form2
+    partial class FormlarArasıGeçişFormu
     {
         /// <summary>
         /// Required designer variable.

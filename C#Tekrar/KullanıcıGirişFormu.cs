@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace C_Tekrar
 {
-    public partial class Form4 : Form
+    public partial class KullanıcıGirişFormu : Form
     {
-        public Form4()
+        public KullanıcıGirişFormu()
         {
             InitializeComponent();
         }
@@ -23,7 +23,7 @@ namespace C_Tekrar
             string Password = textBox2.Text;
             if (Username == "Admin" && Password == "123")
             {
-                Form3 form3 = new Form3();
+                DörtİşlemFormu form3 = new DörtİşlemFormu();
                 form3.Show();
                 this.Hide();
             }

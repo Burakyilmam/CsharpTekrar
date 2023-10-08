@@ -1,6 +1,6 @@
 ﻿namespace C_Tekrar
 {
-    partial class Form4
+    partial class KullanıcıGirişFormu
     {
         /// <summary>
         /// Required designer variable.
